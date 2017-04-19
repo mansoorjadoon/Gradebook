@@ -1,0 +1,15 @@
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">
+ 
+	<bean id="cloB" class="main.java.pk.edu.nust.seecs.gradebook.entity"></bean>
+        <bean id="contentB" class="main.java.pk.edu.nust.seecs.gradebook.entity"></bean>
+        <bean id="courseB" class="main.java.pk.edu.nust.seecs.gradebook.entity"></bean>
+	<bean id="gradeB" class="main.java.pk.edu.nust.seecs.gradebook.entity"></bean>
+	<bean id="studentB" class="main.java.pk.edu.nust.seecs.gradebook.entity"></bean>
+	<bean id="teacherB" class="main.java.pk.edu.nust.seecs.gradebook.entity"></bean>
+
+
+ 
+</beans>
